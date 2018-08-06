@@ -7,7 +7,7 @@
 # SHELL=/bin/sh
 # PWD=/root
 
-rm *.jpg
+# rm *.jpg
 rm ~/apod/*.jpg ~/apod/*wallp* ~/apod/2* ~/apod/*.txt
 user=$(whoami)
 cd ~/apod
